@@ -12,7 +12,7 @@ Hello, Cube!
 
 ### MLSDK
 
-v0.24.0
+v0.24.1
 
 ### LuminOS
 
